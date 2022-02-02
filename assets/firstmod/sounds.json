@@ -1,0 +1,11 @@
+{
+	"bonk": {
+		"category": "ambient",
+		"subtitle": "firstmod.bonk",
+		"sounds": [
+			"firstmod:bonk"
+		]
+		
+	}
+
+}
